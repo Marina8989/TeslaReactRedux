@@ -1,18 +1,18 @@
+.nav-wrap{
+    position: fixed;
+    left: 3rem;
+}
 .bg-nav{
-    background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/b2b118a7-7e86-4e8f-b7af-092f3e64d847/bvlatuR/std/1254x1080/lhd-range-hero-desktop');
-    background-position: cover;
-    height: 100vh;
-    width: 100vw;
-    background-repeat: no-repeat;
-    background-size: cover;
     display: flex;
     justify-content: space-around;
 }
 .nav-options{
     display: flex;
     justify-content: space-around;
+    margin-left: 10rem;
 }
 .nav-contact{
     display: flex;
     justify-content: space-around;
+    margin-left: 6rem;
 }

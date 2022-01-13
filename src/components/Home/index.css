@@ -1,0 +1,19 @@
+.bg-home{
+    position: relative;
+    background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/ca583b8c-7cfa-4202-9be2-1d3f0e3f24cf/bvlatuR/std/2880x1800/M3-Homepage-RHD-D');
+    background-position: cover;
+    min-height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 3rem;
+}
+.home-model3{
+    position: absolute;
+    top: 11rem;
+    left: 40%;
+    line-height: 33px;
+}
+.home-model3 h1{
+    margin-left: 1.6rem;
+}
