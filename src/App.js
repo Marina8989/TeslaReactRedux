@@ -5,8 +5,11 @@ import './index.css';
 
 function App() {
   return (
-    <div className='container'>
+    <div>
         <Navbar />
+        <Switch>
+          <Route path='/'  />
+        </Switch>
     </div>
   );
 }
