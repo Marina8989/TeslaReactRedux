@@ -6,7 +6,8 @@
     width: 100vw;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 3rem;
+    padding-bottom: 9rem;
+    color: rgb(48, 48, 48);
 }
 .home-model3{
     position: absolute;
@@ -15,5 +16,34 @@
     line-height: 33px;
 }
 .home-model3 h1{
-    margin-left: 1.6rem;
+    margin-left: 2.8rem;
+}
+.home-model3 span{
+    text-decoration: underline;
+}
+.home-model3 h5{
+    color:rgb(95, 95, 95);
+    letter-spacing: 1px;
+}
+.home-btns{
+   margin-top: 22rem;
+}
+.home-btns button{
+    /* margin: 0 .5rem; */
+    border-radius: 15px;
+    border: none;
+}
+.btn-order{
+   padding: .8rem 2.3rem;
+   background:rgb(48, 48, 48);
+   color: white;
+   margin-left: -11rem;
+   margin-right: 9.5rem;
+   font-size: 13px;
+}
+.btn-inventory{
+   padding: .8rem 1.9rem; 
+   background: white;
+   color:rgb(48, 48, 48);
+   margin: 0 2.8rem;
 }

@@ -9,7 +9,12 @@ const Home = () => {
             <Navbar />
             <div className='home-model3'>
                 <h1>MODEL 3</h1>
-                <h5>Order Online for Touchless Delivery</h5>
+                <h5>Order Online for <span>Touchless Delivery</span></h5>
+
+              <div className='home-btns'>
+                  <button className='btn-order'>CUSTOM ORDER</button>
+                  <button className='btn-inventory'>EXISTING INVENTORY</button>
+              </div>  
             </div>
         </div>
         <div style={{backgroundColor: 'yellow'}}>
